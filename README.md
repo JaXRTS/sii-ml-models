@@ -10,7 +10,7 @@ training itself and for some sanity checks are given in the
 
 <p align="center">
   <picture>
-      <img src="trained_NNs/C_e800_expanded_64_128_128_64/T-k.png" width="600">
+      <img src=".img.png" width="600">
   </picture>
 </p>
 
