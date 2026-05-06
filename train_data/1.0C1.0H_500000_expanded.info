@@ -1,0 +1,10 @@
+k_lower: 0.1    # 1 / Angstrom
+k_upper: 20    # 1 / Angstrom
+
+T_lower: 1.0    # eV / k_B
+T_upper: 300.0    # eV / k_B
+
+rho_lower: 0.01  # g / cc
+rho_upper: 100  # g / cc
+
+0.7.0.post12.dev0+ba9dc34
